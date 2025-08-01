@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Emily Good-Perkins | AI Ethics & Social Justice Researcher</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 2em;
+      background: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #1a1a1a;
+    }
+    section {
+      margin-bottom: 2em;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Emily Good-Perkins</h1>
+    <h2>AI Ethics & Social Justice Researcher</h2>
+    <p>Author • Empathy Expert • Qualitative Researcher • AI Policy Advocate</p>
+
+    <section>
+      <h2>About Me</h2>
+      <p>I am an interdisciplinary researcher focused on the ethical design, emotional intelligence, and societal impact of AI systems—especially in robotics and education. With an Ed.D. from Columbia University, I bridge technical insight with human-centered values to guide responsible innovation. I am also the founder of LuminEd, a mobile AI-powered micro-school for refugee and underserved communities.</p>
+    </section>
+
+    <section>
+      <h2>Publications</h2>
+      <ul>
+        <li><strong>Good-Perkins, E.</strong> (2023). *Culturally Sustaining Music Pedagogies*. [Publisher Name]</li>
+        <li><strong>Good-Perkins, E.</strong> (2022). “Empathy, Robots, and the Future of Learning.” *Journal of AI & Society*.</li>
+        <li><strong>Good-Perkins, E.</strong> (2021). “Emotional Intelligence in AI Policy Design.” *Harvard Education Review*.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <ul>
+        <li><strong>LuminEd:</strong> Offline AI tutoring for underserved communities using solar-powered micro-schools.</li>
+        <li><strong>Robot Empathy Lab:</strong> Designing studies on human-robot interaction and emotional recognition.</li>
+        <li><strong>Music for AI:</strong> Developing culturally sustaining music curricula for AI education platforms.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>Email: emilygoodperkins [at] gmail [dot] com</p>
+      <p>GitHub: <a href="https://github.com/emgoodperkins" target="_blank">github.com/emgoodperkins</a></p>
+      <p>Website: <a href="https://emilygoodperkins.com" target="_blank">emilygoodperkins.com</a></p>
+    </section>
+  </div>
+</body>
+</html>
